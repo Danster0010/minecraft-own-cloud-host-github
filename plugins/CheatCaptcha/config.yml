@@ -1,0 +1,22 @@
+#messages
+bypassVerify: "&aYou are admin, so you bypassed verify"
+verifyButton: "&a&l[НАСни сюди будь-ласка/СЮДА НАЖАЛ БЬІСТРО/Мұнда басыңыз]"
+hoverButton: "&eНАЖИМАй"
+invalidArgument: "&cThis argument is invalid"
+verified: "&aНу ладно живи пока!"
+
+#staff notify (cheatcaptcha.receive permission)
+#these messages contains player name after them, for example: The captcha wasn't passed (Heron4gf)
+adminKickedCheat: "&cThe captcha wasn't passed"
+adminKickedTime: "&cThe deadline is ended"
+
+#kick reasons
+kickReasonCheating: "&cПішов нахуй зі своїми читами!"
+kickReasonTime: "&cХмм...С тобой все в порядке, тебе уже ничего не поможет?"
+
+#settings
+askOnJoin: true
+dotCommand: ".say"
+verifyTime: 10 #seconds
+freeze: true
+cancelChat: true
